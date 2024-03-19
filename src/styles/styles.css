@@ -1,0 +1,37 @@
+/* styles.css */
+
+body {
+    background-color: #f2f2f2; /* Gris claro */
+  }
+  
+  .ChatBot {
+    background-color: #ffe5e5; /* Rosa claro */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .ChatBot h1 {
+    color: #333; /* Negro */
+  }
+  
+  .MessageContainer {
+    margin-bottom: 10px;
+  }
+  
+  .Message {
+    background-color: #fff; /* Blanco */
+    color: #333; /* Negro */
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+  }
+  
+  .Message.isUser {
+    text-align: right;
+  }
+  
+  .Message.isUser .Message {
+    background-color: #4CAF50; /* Verde */
+    color: #fff; /* Blanco */
+  }
+  

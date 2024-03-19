@@ -1,0 +1,63 @@
+body{
+background-color: #1f191b; /* Fondo rosa claro para el encabezado */
+text-align: center
+}
+.Chatbot-Icon{
+  display: block;
+  height: 200px;
+  width: auto;
+  margin: auto; /* Esto posiciona la imagen del chatbot al centro*/
+  text-align: center;
+  background-image: url('../assets/1.jpg'); /* Ruta de tu imagen */
+  background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el contenedor */
+  background-position: center; /* Centra la imagen dentro del contenedor */
+}
+
+.chatbot-container {
+  position: relative;
+  
+    width: 500px;
+    height: 500px;
+    margin: auto; /* Esto centrará el chatbot horizontalmente */
+    margin-top: 50px; /* Esto agrega un poco de espacio en la parte superior */
+    border: 5px solid #e666bb; /* Esto agrega un borde para visualización */
+    padding: 50px;
+    box-sizing: border-box; /* Esto garantiza que el padding no afecte las dimensiones del contenedor */
+    background-color: #f0f0f0; /* Fondo gris claro */
+    padding-top: 100px; /* Agrega espacio en la parte superior */
+    padding-right: 100px; /* Agrega espacio en el lado derecho */
+    padding-left: 100px; /* Agrega espacio en el lado izquierdo */
+    padding-bottom: 300px; /* Agrega espacio en la parte inferior */
+    text-align: center;
+    justify-content: center;
+    align-items:center;
+  
+ 
+  }
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px; /* Agrega un poco de espacio alrededor del encabezado */
+    background-color: #ffe6f0; /* Fondo rosa claro para el encabezado */
+  }
+  
+  .messages-container {
+    padding-top: 20px; /* Ajusta el espaciado según tus necesidades */
+  }
+
+  
+  
+  /* Estilo para los textos dentro del cuadro de chat */
+  .chatbot-message {
+    background-color: rgb(102, 81, 99); /* Fondo blanco */
+    padding: 10px; /* Agrega espacio alrededor del mensaje */
+    margin-bottom: 10px; /* Agrega espacio entre los mensajes */
+    border-radius: 10px; /* Agrega bordes redondeados */
+    font-family: Arial, sans-serif;
+    color: white;
+    font-size: 8px;
+
+  }
+  

@@ -1,0 +1,19 @@
+hola
+
+Bienvenido(a) a Cesde, para nosotros es un gusto atenderte, indica tu número de documento, por favor...
+
+53146069
+
+Hola Nathalia! un placer saludarte, ingresa tu correo personal para enviarte nuestra conversación, al final de la llamada
+
+orozco.nathalia@gmail.com
+
+Elija un servicio marcando el número: 1.-Cartera, 2.-Horarios, 3.-Matriculas, 4.-Fecha de Inicio, 5.- Becas, 6.-Grupos Cerrados
+
+1
+
+En cartera estamos contentos de atenderte, ingresa las opciones: a.- Estado del Credito.
+
+a
+
+No Aprobado, nosotros te llamamos, sigue intentando,muchas gracias! te esperamos pronto...
